@@ -89,10 +89,14 @@ For production::
 *note: We install production requirements this way because many Platforms as a
 Services expect a requirements.txt file in the root of projects.*
 
+Extra Goodies
+=============
+__pyclean.sh__: uses `find` to recursively remove all .pyc files from your project
+
+    $ ./pyclean
+
+
 Acknowledgements
 ================
 
-Based on the django-twoscoops-project
-
-.. _contributors: https://github.com/twoscoops/django-twoscoops-project/blob/master/CONTRIBUTORS.txt
-
+Based on the [django-twoscoops-project](https://github.com/twoscoops/django-twoscoops-project)
