@@ -1,7 +1,7 @@
 django-hcode-project
 ========================
 
-A project template for Django 1.7 (with a tag for Django 1.6)
+A project template for Django
 
 To use this project follow these steps:
 
@@ -67,11 +67,11 @@ Creating your project
 To create a new Django project called '**killerapp**' using
 django-hcode-project, run the following command::
 
-    $ django-admin.py startproject --template=https://github.com/twoscoops/django-twoscoops-project/archive/master.zip --extension=py,rst,html killerapp_project
+    $ django-admin.py startproject --template=https://github.com/peter-stratton/django-hcode-project/archive/master.zip --extension=py,rst,html killerapp
 
-For Django 1.5 users, we recommend::
+For Django 1.6 users, we recommend::
 
-    $ django-admin.py startproject --template=https://github.com/twoscoops/django-twoscoops-project/archive/1.5.zip --extension=py,rst,html killerapp_project
+    $ django-admin.py startproject --template=https://github.com/peter-stratton/django-hcode-project/archive/django1.6.zip --extension=py,rst,html killerap
 
 Installation of Dependencies
 =============================
