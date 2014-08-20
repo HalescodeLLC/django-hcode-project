@@ -95,7 +95,6 @@ __pyclean.sh__: uses `find` to recursively remove all .pyc files from your proje
 
     $ ./pyclean
 
-
 Acknowledgements
 ================
 
