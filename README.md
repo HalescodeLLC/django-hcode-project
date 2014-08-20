@@ -5,11 +5,11 @@ A project template for Django
 
 To use this project follow these steps:
 
-#. Create your working environment
-#. Install Django
-#. Create the new project using the django-hcode-project template
-#. Install additional dependencies
-#. Use the Django admin to create the project
+1. Create your working environment
+2. Install Django
+3. Create the new project using the django-hcode-project template
+4. Install additional dependencies
+5. Use the Django admin to create the project
 
 *note: these instructions show creation of a project called "killerapp".  You
 should replace this name with the actual name of your project.*
